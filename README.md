@@ -1,4 +1,5 @@
 ### Hi, I'm Ilia Poludkin 👋
+<sub>Earlier papers are published as Ilya E. Poludkin.</sub>
 
 Biomedical engineer in Eindhoven. I design, build and validate medical devices — mechanics, electronics, simulation and experiments — and use Python and ML to make sense of the data they produce. MSc student in Soft Tissue Engineering and Mechanobiology at TU/e (2027); MSc with Honours in Biophotonics and Tissue Engineering, Bauman MSTU.
 
