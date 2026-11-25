@@ -13,6 +13,7 @@ Biomedical engineer in Eindhoven. I design, build and validate medical devices â
 #### Code & data
 | Repository | What it is |
 |---|---|
+| [paper-anatomy](https://github.com/polilya/paper-anatomy) | Claude Code skill that takes research papers apart: cited cards, components and joints, numbers and protocols compared across papers (Obsidian, Excel) |
 | [dna-cds-unet-segmentation](https://github.com/polilya/dna-cds-unet-segmentation) | 1D U-Net that finds protein-coding sequences in human DNA, plus Dice variants for sparse 1D segmentation |
 | [robotic-catheter-review-analysis](https://github.com/polilya/robotic-catheter-review-analysis) | Data analysis and figures behind a PRISMA review of robotic catheters (Q1 journal, 2024) |
 | [gene_predict_project](https://github.com/polilya/gene_predict_project) | Team project: ML pipeline locating UTR boundaries on human chromosome 1 |
